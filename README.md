@@ -1,7 +1,7 @@
 Pagina de MAFHI
 
 Link donde se encuentra nuestro web service
-http://35.192.44.144/
+http://mafhi.000webhostapp.com/
 
 
 Al ser un servidor montado en google cloud la direccion ip puede variar(ip dinamica) pero se mantendra actializada la información
